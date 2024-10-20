@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  HostType: 4
+  Protocol: 0
+  ServerAddress: 
+  ServerPort: 5055
+  AppID: 15dc5db1-cac5-46d8-920a-cca8f56588af
+  VoiceAppID: 
+  PreferredRegion: 7
+  EnabledRegions: -1
+  JoinLobby: 1
+  EnableLobbyStatistics: 0
+  RpcList:
+  - Chat
+  - DestroyRpc
+  - InstantiateRpc
+  - OnAwakeRPC
+  - PickupItemInit
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - ExecuteAction
+  - SendChatTest
+  - ValidateBoard
+  - RpcExecuteAction
+  - RpcSendChatTest
+  - RpcVerifyGameState
+  - rpcOnTurnBegin
+  - rpcOnPassBegin
+  - rpcActivateCard
+  - rpcOnPassTurn
+  - rpcInitializeDeckSelfPlayer
+  - rpcInitializeDeck
+  - rpcExecuteAction
+  - rpcEndMyturn
+  - rpcReceiveTurn
+  - rpcCheckGameState
+  - rpcIWinGame
+  - RpcCheckGameState
+  - RpcEndMyturn
+  - RpcInitializeDeck
+  - RpcIWinGame
+  - RpcReceiveTurn
+  - RpcAssignClient
+  - RpcSetOwner
+  - RpcPrepareTurn
+  - RpcIWantPlayAgain
+  - RpcIWinGameNetwork
+  - RpcIConcede
+  - RpcBothPlayersReady
+  - RpcToggleWachTowerToAttackNetwork
+  DisableAutoOpenWizard: 1

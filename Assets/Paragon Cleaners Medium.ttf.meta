@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 91aa4c81e3fb4854f9863b2782203c42
+timeCreated: 1503403199
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Paragon
+  fontNames:
+  - Paragon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b9af8f484a222604493090c2fd767ffe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd84ee45fe4f3f541a09cd30594df7e2
+timeCreated: 1502148587
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: St Transmission
+  fontNames:
+  - St Transmission
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
